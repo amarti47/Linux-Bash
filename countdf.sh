@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Aaron Martin
-# 1052 6100
+
 
 #The purpose of this script is to count all the empty child directories, non-empty child directories,
 #empty txt files, non-empty txt files in a given directory path at command line. The count of each variable is
