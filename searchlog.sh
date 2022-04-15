@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Aaron Martin
-# 1052 6100
+
 
 #The purpose of this script is to allow for the user to search a txt file using a search term/pattern.
 #The matching searches will then be returned to the user, along with the corresponding line number and a total count.
