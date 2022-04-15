@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #Aaron Martin
-#1052 6100
+
 
 #The purpose of this script is to provide user with search functionality for server access logs.
 
