@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Aaron Martin
-# 1052 6100
 
 #The purpose of this script is to sum 3 numbers together entered at commandline.
 #The sum cannot be greater than 30 as a requirement of this task.
