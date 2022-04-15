@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Aaron Martin
-# 1052 6100
+
 
 #The purpose of this script is to prompt the user to enter values 20 OR 40. 
 #Invalid input message will be given if neither 20 OR 40 was entered by the user.
